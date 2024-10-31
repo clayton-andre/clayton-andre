@@ -1,7 +1,7 @@
 ### Olá, Sou o Clayton
 
 - 🔭 Atualmente trabalho como Analista de Suporte
-- 🌱 Sou estudante da FATEC no Curso de Redes de Computadores
+- 🌱 Formado pela FATEC no Curso de Redes de Computadores
 - 👯 Gosto de receber e compartilhar conhecimento
 - 📚 Estou aprendendo sobre Front-End
 - 🤔 Sou grato por toda ajuda que receber em JS
